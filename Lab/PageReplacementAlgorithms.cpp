@@ -272,13 +272,17 @@ int main()
 
     input();
     optimal();
+    cout << endl;
     //system("cls");
     not_recently_used();
+    cout << endl;
     //system("cls");
     fifo();
+    cout << endl;
     //system("cls");
     second_chance();
     //system("cls");
+    cout << endl;
     clock_r();
     //system("cls");
     cout << "Thank you" << endl;
